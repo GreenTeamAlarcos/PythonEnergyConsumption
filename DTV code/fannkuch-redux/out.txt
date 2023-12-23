@@ -1,3 +1,0 @@
-python3 -OO fannkuchredux.python3-4.py 12
-3968050
-Pfannkuchen(12) = 65
